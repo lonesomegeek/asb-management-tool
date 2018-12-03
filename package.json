@@ -1,0 +1,31 @@
+{
+  "name": "asb-management-tool",
+  "version": "0.0.1",
+  "description": "Microsoft Azure Service Bus Management Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lonesomegeek/asb-management-tool.git"
+  },
+  "keywords": [
+    "azure-service-bus",
+    "azure",
+    "service-bus",
+    "html",
+    "javascript",
+    "typescript",
+    "queue",
+    "topic",
+    "subscription",
+    "message"
+  ],
+  "author": "lonesomegeek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lonesomegeek/asb-management-tool/issues"
+  },
+  "homepage": "https://github.com/lonesomegeek/asb-management-tool#readme"
+}
